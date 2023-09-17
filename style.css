@@ -16,8 +16,14 @@ hr{
     padding: none;
 }
 
-.post{
-    color: blue;
+li{
+    color: grey;
+}
+
+footer{
+    background-color: darkgrey;
+    margin: none;
+    padding: none;
 }
 
 .about{
@@ -28,12 +34,11 @@ hr{
     color: blue;
 }
 
-li{
-    color: grey;
+
+.post{
+    color: blue;
 }
 
-footer{
-    background-color: darkgrey;
-    margin: none;
-    padding: none;
-}
+
+
+

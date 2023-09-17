@@ -4,5 +4,36 @@ body{
 }
 
 h2{
+    color: rgb(1, 1, 94);
     font-family: 'Bree Serif', serif;
+}
+
+hr{
+    background-color: gold;
+    border: none;
+    height: 3px;
+    margin: none;
+    padding: none;
+}
+
+.post{
+    color: blue;
+}
+
+.about{
+    color: blue;
+}
+
+.company{
+    color: blue;
+}
+
+li{
+    color: grey;
+}
+
+footer{
+    background-color: darkgrey;
+    margin: none;
+    padding: none;
 }
